@@ -17,10 +17,3 @@ I'm a low-level programmer and cybersecurity enthusiast. I've been expanding my 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
